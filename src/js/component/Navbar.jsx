@@ -5,7 +5,7 @@ export const Navbar = () => {
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="#">
-          Navbar
+          Start Boostrap
         </a>
         <button
           class="navbar-toggler ms-auto text-white"
@@ -27,12 +27,17 @@ export const Navbar = () => {
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">
-                Features
+                About
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">
-                Pricing
+                Services
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                Contact
               </a>
             </li>
           </ul>
