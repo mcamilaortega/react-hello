@@ -2,7 +2,7 @@ import React from "react";
 
 export const Jumbotron = (props) => {
   return (
-    <div className = "container">
+    <div className = "">
       <div className="card w-100 bg-light">
         <div className="card-body">
           <h1 className="card-title mt-5">{props.title}</h1>
