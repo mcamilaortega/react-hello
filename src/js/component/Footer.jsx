@@ -9,7 +9,7 @@ const footerStyle = {
 }
 const Footer = ()=> {
     return (
-        <h5 style={footerStyle} className="bg-dark text-center mt-auto text-white"><small>Copyright @ Maria & Jvonte Productions 2019 </small></h5>
+        <h5 style={footerStyle} className="bg-dark text-center mt-auto text-white"><small>Copyright @ Maria & Jvonte Productions 2024 </small></h5>
     )
 };
 
